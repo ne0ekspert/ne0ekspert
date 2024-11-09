@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## 🔧 Tools
 
+![image](/github-metrics.svg)
+
 **Languages:** 
 ---
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
